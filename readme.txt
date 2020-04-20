@@ -1,4 +1,4 @@
-[jetpack] Electric Jetpack v0.0.1
+[jetpack] Electric Jetpack v0.0.2
 
 This mod adds an electric jetpack to game.
 
